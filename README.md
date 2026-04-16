@@ -67,7 +67,7 @@
 ┌────────────────────▼─────────────────────────────────────────┐
 │               BLOCKCHAIN (Solidity 0.8.25)                   │
 │  BioGovAccessControl · EquipmentNFT · MaintenanceController  │
-│  CertificationSBT · FirmwareProofRegistry · PaymentEscrow   │
+│  CertificationSBT · FirmwareProofRegistry ·  │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -82,7 +82,7 @@
 | **MaintenanceController** | Création/assignation/validation des tickets | Custom |
 | **CertificationSBT** | Certification des techniciens (non-transférable) | SBT (ERC-721 modifié) |
 | **FirmwareProofRegistry** | Registre d'intégrité des firmwares | Custom |
-| **PaymentEscrow** | Gestion des paiements sécurisés | Escrow Pattern |
+| **** | |  |
 
 ### Rôles on-chain :
 - `DEFAULT_ADMIN` — Administrateur général
