@@ -19,6 +19,35 @@
 
 ---
 
+## 📖 Tableau des Abréviations
+
+| Abréviation | Signification |
+|:-----------:|---------------|
+| **DApp** | Application Décentralisée (Decentralized Application) |
+| **NFT** | Jeton Non Fongible (Non-Fungible Token) — représente un actif unique sur la blockchain |
+| **SBT** | Jeton Lié à l'Âme (Soulbound Token) — NFT non-transférable, utilisé pour les certifications |
+| **ERC-721** | Standard Ethereum pour les tokens non fongibles (NFT) |
+| **RBAC** | Contrôle d'Accès Basé sur les Rôles (Role-Based Access Control) |
+| **JWT** | Jeton Web JSON (JSON Web Token) — mécanisme d'authentification |
+| **REST** | Transfert d'État Représentationnel (Representational State Transfer) — style d'API |
+| **API** | Interface de Programmation d'Applications (Application Programming Interface) |
+| **IPFS** | Système de Fichiers InterPlanétaire (InterPlanetary File System) — stockage décentralisé |
+| **ABI** | Interface Binaire d'Application (Application Binary Interface) — interface des smart contracts |
+| **CRUD** | Créer, Lire, Mettre à jour, Supprimer (Create, Read, Update, Delete) |
+| **JPA** | API de Persistance Java (Java Persistence API) |
+| **KPI** | Indicateur Clé de Performance (Key Performance Indicator) |
+| **CORS** | Partage de Ressources Cross-Origin (Cross-Origin Resource Sharing) |
+| **RPC** | Appel de Procédure à Distance (Remote Procedure Call) |
+| **SHA-256** | Algorithme de Hachage Sécurisé 256 bits (Secure Hash Algorithm) |
+| **HL7/FHIR** | Standards d'interopérabilité des systèmes de santé |
+| **UI/UX** | Interface Utilisateur / Expérience Utilisateur |
+| **TS/TSX** | TypeScript / TypeScript avec syntaxe JSX (React) |
+| **SQL** | Langage de Requête Structuré (Structured Query Language) |
+| **ETH** | Ether — cryptomonnaie native d'Ethereum |
+| **USDC** | USD Coin — stablecoin indexé sur le dollar américain |
+
+---
+
 ## 🏗️ Architecture Technique
 
 ```
