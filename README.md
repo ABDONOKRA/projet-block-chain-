@@ -1,7 +1,7 @@
 # 🏥 Bio-Gov — Digital Twins pour la Gouvernance des Équipements Biomédicaux
 
 > **Projet de Fin d'Études — DApp Blockchain**  
-> **Étudiant :** ENNOUKRA Abdelghani  
+> **Étudiant :** ENNOUKRA Abdelghafour  
 > **Date :** 16 Avril 2026  
 > **Technologie :** Blockchain Ethereum · NFT/SBT · React · Spring Boot · PostgreSQL
 
@@ -55,11 +55,11 @@
 │                     FRONTEND (React/TS)                      │
 │  Landing · Dashboard · Equipment · Tickets · Technician      │
 │  Certification · Firmware · Audit                            │
-│          Connexion via MetaMask (Web3)                        │
+│          Connexion via MetaMask (Web3)                       │
 └────────────────────┬─────────────────────────────────────────┘
                      │  REST API + JWT + WebSocket
 ┌────────────────────▼─────────────────────────────────────────┐
-│                  BACKEND (Spring Boot 3.2)                    │
+│                  BACKEND (Spring Boot 3.2)                   │
 │  AuthController · EquipmentController · TicketController     │
 │  JwtAuthFilter · PostgreSQL (JPA/Hibernate)                  │
 └────────────────────┬─────────────────────────────────────────┘
@@ -67,7 +67,7 @@
 ┌────────────────────▼─────────────────────────────────────────┐
 │               BLOCKCHAIN (Solidity 0.8.25)                   │
 │  BioGovAccessControl · EquipmentNFT · MaintenanceController  │
-│  CertificationSBT · FirmwareProofRegistry ·  │
+│  CertificationSBT · FirmwareProofRegistry ·  │    
 └──────────────────────────────────────────────────────────────┘
 ```
 
