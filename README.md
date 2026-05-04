@@ -137,18 +137,7 @@ Déploiement actuel sur Hardhat Local :
 
 ## Variables d'environnement
 
-### Frontend (`frontend/.env`)
 
-```env
-REACT_APP_API_URL=http://localhost:8080/api
-REACT_APP_WS_URL=http://localhost:8080/api/ws
-REACT_APP_MAINTENANCE_CONTROLLER=0x0B306BF915C4d645ff596e518fAf3F9669b97016
-REACT_APP_CERTIFICATION_SBT=0xA51c1fc2f0D1a1b8494Ed1FE312d7C3a78Ed91C0
-REACT_APP_FIRMWARE_REGISTRY=0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82
-REACT_APP_EQUIPMENT_NFT=0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e
-REACT_APP_ACCESS_CONTROL=0x610178dA211FEF7D417bC0e6FeD39F05609AD788
-REACT_APP_IPFS_GATEWAY=https://gateway.pinata.cloud/ipfs/
-```
 
 ### Backend (`backend/src/main/resources/application.yml`)
 
